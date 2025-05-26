@@ -1,7 +1,7 @@
 # 🐱‍👤 Marcos Britto | Desenvolvedor Full Stack
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=580&lines=Transformando+ideias+em+código;Desenvolvendo+soluções+excelentes;Criando+experiências+digitais" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=580&lines=Transformando+ideias+em+código;Desenvolvendo+soluções+excelentes;Criando+experiências+digitais" alt="Typing..." />
 </div>
 
 **`Desenvolvedor Full Stack Pleno | Engenheiro de Software em Formação`**
@@ -16,10 +16,10 @@
 
 ```javascript
 const britto = {
-  idade: 19,
+  idade: 20,
   localização: "Curitiba, PR - Brasil",
   formação: "Bacharelado em Engenharia de Software | Uninter (Cursando)",
-  experiência: "+4 anos como Desenvolvedor Full Stack",
+  experiência: "+5 anos como Desenvolvedor Full Stack",
   habilidades: ["React", "Node.js", "TypeScript", "Python", "MongoDB"],
   paixões: ["Resolver problemas complexos", "Código limpo", "Arquitetura de software"],
   hobbies: ["Desenvolver servidores DayZ", "Desenvolver bots Discord", "Aprender novas tecnologias"]
