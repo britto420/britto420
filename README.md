@@ -67,7 +67,7 @@ const britto = {
 ## 👨‍💻 Experiência Profissional
 
 ### 💼 Desenvolvimento Full Stack Pleno
-- **+4 anos** construindo aplicações web completas
+- **+5 anos** construindo aplicações web completas
 - Arquitetura de sistemas escaláveis e de alta performance
 - Implementação de boas práticas e padrões de código
 
