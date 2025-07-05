@@ -1,6 +1,6 @@
-# 🐱‍👤 Marcos Britto | Desenvolvedor Full Stack
+# Marcos Britto | Desenvolvedor Full Stack
 
-**`Desenvolvedor Full Stack Pleno | Engenheiro de Software em Formação`**
+**`Desenvolvedor Full Stack Pleno`**
 
 <div align="center">
   
@@ -14,7 +14,6 @@
 const britto = {
   idade: 20,
   localização: "Curitiba, PR - Brasil",
-  formação: "Bacharelado em Engenharia de Software | Uninter (Cursando)",
   experiência: "+5 anos como Desenvolvedor Full Stack",
   habilidades: ["React", "Node.js", "TypeScript", "Python", "MongoDB"],
   paixões: ["Resolver problemas complexos", "Código limpo", "Arquitetura de software"],
