@@ -4,7 +4,7 @@
 
 <div align="center">
   
-[![Dev.to blog](https://img.shields.io/badge/PORTFOLIO-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://brittodev.xyz)
+[![Dev.to blog](https://img.shields.io/badge/PORTFOLIO-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://www.devbritto.com)
   
 </div>
 
