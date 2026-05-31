@@ -10,7 +10,7 @@
 
 ```javascript
 const britto = {
-  idade: 20,
+  idade: 21,
   localização: "Curitiba, PR - Brasil",
   experiência: "+6 anos como Desenvolvedor Full Stack",
   habilidades: ["React", "Node.js", "TypeScript", "Python", "MongoDB"],
